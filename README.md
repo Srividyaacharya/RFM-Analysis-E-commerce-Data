@@ -74,7 +74,7 @@ The four customer segments identified are:
 
 ✅ **Bronze** customers are at risk of churn and require targeted marketing to reactivate.
 
-Uploaded data after segmentation in this file (Segmentation_Customer_details.csv)
+Uploaded data after segmentation in this file ([Segmentation_Customer_details.csv](https://github.com/Srividyaacharya/RFM-Analysis-E-commerce-Data/blob/main/Segmentation_Customer_details.csv))
 
 ## Technologies Used
 
